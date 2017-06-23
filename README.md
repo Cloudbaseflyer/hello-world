@@ -1,2 +1,3 @@
 # hello-world
-Just a try.
+Ez ide nem kell.
+I am a paraglider pilot.
